@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cyberaz.github.io/</id>
     <title>Cyberaz</title>
-    <updated>2020-05-12T08:17:38.391Z</updated>
+    <updated>2020-05-13T07:23:14.345Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://cyberaz.github.io/"/>
     <link rel="self" href="https://cyberaz.github.io/atom.xml"/>
@@ -10,6 +10,35 @@
     <logo>https://cyberaz.github.io/images/avatar.png</logo>
     <icon>https://cyberaz.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Cyberaz</rights>
+    <entry>
+        <title type="html"><![CDATA[Minimizing makespan on a single machine with release dates and inventory constraints]]></title>
+        <id>https://cyberaz.github.io/post/minimizing-makespan-on-a-single-machine-with-release-dates-and-inventory-constraints/</id>
+        <link href="https://cyberaz.github.io/post/minimizing-makespan-on-a-single-machine-with-release-dates-and-inventory-constraints/">
+        </link>
+        <updated>2020-05-13T07:09:31.000Z</updated>
+        <content type="html"><![CDATA[<h1 id="highlights">Highlights</h1>
+<ol>
+<li>schedule jobs on a single machine with inventory and release date constraints</li>
+<li>show that the problem is strongly NP-hard</li>
+<li>propose two mixed-integer programming formulations</li>
+<li>develop <strong>a branch-and-bound algorithm</strong> and <strong>a guess-and-check algorithm</strong></li>
+<li>report on the computational results on a randomly generated dataset</li>
+</ol>
+<h1 id="abstract">Abstract</h1>
+<h2 id="problem">Problem</h2>
+<p>A single-machine scheduling problem with release dates and inventory constraints[^ 1 ] has a set of jobs must be performed. Each job is characterized by a processing time, a release date and an inventory modification(either positive or negative)[^ 2 ].</p>
+<h2 id="aim">Aim</h2>
+<p>The goal is to find a feasible sequence of jobs with the minimum makespan, which is the completion time of the latest job, while all release dates and inventory constraints are met.</p>
+<h2 id="methods">Methods</h2>
+<p>The paper introduces a time-indexed formulation and a sequence-based formulation, a branch-and-bound algorithm, and a dynamic-programming-based guess-and-check (GC) algorithm.</p>
+<h2 id="result">Result</h2>
+<p>The GC algorithm outperforms all other alternatives.</p>
+<h1 id="introduction">Introduction</h1>
+<p>The problem has some interesting applications in scheduling warehousing operations, where shipments arrive in a loading/unloading dock either to deliver (unload) or to pick up (load) a certain number of products. The warehouse includes a storage space that is used to store these products in inventory. Obviously, jobs with positive inventory modification imply unloading operations and jobs with negative inventory modification constitute loading operations.</p>
+<p>[^ 1 ]:Inventory constraints are generalizations of non-renewable resource constraints.<br>
+[^ 2 ]:A job with negative inventory modification can be processed only if the central inventory level is sufficiently high, and a job with positive inventory modification can be executed only if the inventory level is low enough.</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://cyberaz.github.io/post/hello-gridea/</id>
