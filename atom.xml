@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cyberaz.github.io/</id>
     <title>Cyberaz</title>
-    <updated>2020-05-18T14:01:15.715Z</updated>
+    <updated>2020-05-18T14:13:54.243Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://cyberaz.github.io/"/>
     <link rel="self" href="https://cyberaz.github.io/atom.xml"/>
@@ -249,9 +249,6 @@
 <p>电脑作为班级的储存终端，相当于个人的知识库，方便随时的检索、积淀；而平板是电子笔记化的一环，不必在平板上书写非常详尽的笔记，只是进行阅读和勾划重点，并实时和电脑终端保持云同步。</p>
 <p>电脑是所有笔记存储的输入和阅读工具，而平板作为电子笔记的一环，起到的是便携且无边界笔记本的作用，可以随时阅读和查看，还能无限制的打草稿和书写绘画；而纸质笔记只会书写最核心，需要短期内应对考试，量相对来说不会特别大的内容，其他内容选择直接打印电子笔记来帮助记忆，不用手写摘抄。</p>
 <p>而不论是写在平板还是纸上，都要集中精力，梳理一整个流程的思路，最核心的不是用什么方式记录，而是把内容内化于心，手写之后的笔记如果觉得需要保存，可以直接扫描备份到电脑终端，一样起到个人知识库储备的作用。</p>
-<!-- more -->
-<p>参考：</p>
-<p><a href="https://www.bilibili.com/video/BV1DQ4y1N7cK">【sin】iPad取代纸质笔记？不太行｜如何平衡电子与纸质笔记</a></p>
 ]]></content>
     </entry>
     <entry>
@@ -265,25 +262,6 @@
 ]]></summary>
         <content type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
 ✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
-<!-- more -->
-<p><a href="https://github.com/getgridea/gridea">Github</a><br>
-<a href="https://gridea.dev/">Gridea 主页</a><br>
-<a href="http://fehey.com/">示例网站</a></p>
-<h2 id="特性">特性👇</h2>
-<p>📝  你可以使用最酷的 <strong>Markdown</strong> 语法，进行快速创作</p>
-<p>🌉  你可以给文章配上精美的封面图和在文章任意位置插入图片</p>
-<p>🏷️  你可以对文章进行标签分组</p>
-<p>📋  你可以自定义菜单，甚至可以创建外部链接菜单</p>
-<p>💻  你可以在 <strong>Windows</strong>，<strong>MacOS</strong> 或 <strong>Linux</strong> 设备上使用此客户端</p>
-<p>🌎  你可以使用 <strong>𝖦𝗂𝗍𝗁𝗎𝖻 𝖯𝖺𝗀𝖾𝗌</strong> 或 <strong>Coding Pages</strong> 向世界展示，未来将支持更多平台</p>
-<p>💬  你可以进行简单的配置，接入 <a href="https://github.com/gitalk/gitalk">Gitalk</a> 或 <a href="https://github.com/SukkaW/DisqusJS">DisqusJS</a> 评论系统</p>
-<p>🇬🇧  你可以使用<strong>中文简体</strong>或<strong>英语</strong></p>
-<p>🌁  你可以任意使用应用内默认主题或任意第三方主题，强大的主题自定义能力</p>
-<p>🖥  你可以自定义源文件夹，利用 OneDrive、百度网盘、iCloud、Dropbox 等进行多设备同步</p>
-<p>🌱 当然 <strong>Gridea</strong> 还很年轻，有很多不足，但请相信，它会不停向前 🏃</p>
-<p>未来，它一定会成为你离不开的伙伴</p>
-<p>尽情发挥你的才华吧！</p>
-<p>😘 Enjoy~</p>
 ]]></content>
     </entry>
 </feed>
